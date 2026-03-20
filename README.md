@@ -61,3 +61,14 @@ Languages: HTML5, CSS3, JavaScript (ES6), Java
 Automation: Selenium WebDriver
 
 Tools: Git, GitHub, Eclipse IDE
+
+How to update this on GitHub:
+Click the pencil icon (edit) on your GitHub README.
+
+Delete everything currently in there.
+
+Paste the text I gave you above.
+
+Scroll down and click Commit changes.
+
+Would you like me to help you fix the code in your script.js or SymbiosisRegistration.java to make sure the validation and automation match perfectly?
